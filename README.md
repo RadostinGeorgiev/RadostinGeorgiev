@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RadostinGeorgiev
+- 👋 Hi, I’m @Radostin Georgiev
 - 👀 I’m interested in C#, Java, JS
 - 🌱 I’m currently learning C#, Java, JS
 - 💞️ I’m looking to collaborate on ...
